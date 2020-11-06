@@ -28,3 +28,4 @@ YOP,OCP,,,,,,CasADi,,https://www.yoptimization.com/,
 MPC tools,MPC,,,,,,CasADi,,,
 Rockit,OCP,nonlinear,,Python,,,CasADi,,https://gitlab.kuleuven.be/meco-software/rockit,
 Trajopt,MPC,robotics,,,,,,,http://rll.berkeley.edu/trajopt/doc/sphinx_build/html/,http://www.eecs.berkeley.edu/~joschu/docs/trajopt-paper.pdf
+GRAMPC,MPC,,,,,,,,https://sourceforge.net/projects/grampc/,https://link.springer.com/article/10.1007/s11081-018-9417-2
